@@ -1,4 +1,5 @@
 # Write your code here
+require 'JSON'
 
 class GetRequester
   attr_accessor :url
