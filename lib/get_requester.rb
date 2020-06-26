@@ -1,6 +1,6 @@
 # Write your code here
-require ''
-
+require 'net/http'
+require 'uri'
 require 'json'
 
 class GetRequester
